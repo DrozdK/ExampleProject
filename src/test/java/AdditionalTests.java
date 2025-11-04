@@ -11,7 +11,7 @@ public class AdditionalTests {
 
     @Test
     public void additionalWithAllPositiveNumbersTest() {
-        assertEquals((Actions.calculator(2, 6, '+')), "8");
+        assertEquals((Actions.calculator(2, 7, '+')), "9");
     }
 
     @Test
