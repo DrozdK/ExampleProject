@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DivideTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-11-04T13:04:37" hostname="MACBOOKHRYMVP" time="0.01">
+  <properties/>
+  <testcase name="divideMaxTest()" classname="DivideTests" time="0.007"/>
+  <testcase name="divideMinTest()" classname="DivideTests" time="0.0"/>
+  <testcase name="divideWithNotIntegerResultTest()" classname="DivideTests" time="0.0"/>
+  <testcase name="divideWithSecondPositiveNumberTest()" classname="DivideTests" time="0.0"/>
+  <testcase name="divideWithAllNegativeNumbersTest()" classname="DivideTests" time="0.0"/>
+  <testcase name="divideWithAllPositiveNumbersTest()" classname="DivideTests" time="0.0"/>
+  <testcase name="divideWithFirstPositiveNumberTest()" classname="DivideTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
